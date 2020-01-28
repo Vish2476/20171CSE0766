@@ -1,9 +1,5 @@
-﻿Welcome Vishnu Basskar to IT Lab
+#Welcome Vishnu Basskar to IT Lab
 
-username  =  vish2476///201710100938@presidencyuniversity.in
-
-password = mevishnu2476
-
-ssid - 2017
-
-vibass 2476 Slave Branch1
+Our new IT lab is at DSL03
+ 
+this is a master file
