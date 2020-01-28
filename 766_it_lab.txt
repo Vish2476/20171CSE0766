@@ -6,5 +6,4 @@ password = mevishnu2476
 
 ssid - 2017
 
-vibass 2476 master
-
+vibass 2476 Slave Branch1
