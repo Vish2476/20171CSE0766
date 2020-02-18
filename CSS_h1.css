@@ -1,0 +1,18 @@
+body 
+{
+  background-color: lightblue;
+}
+
+h1 
+{
+  color: navy;
+  margin-left: 20px;
+  font-family:verdana;
+  font-size:44px;
+}
+p
+{
+	color: red;
+  margin-left: 23px;
+  font-family:algerian;
+  font-size:23px;
