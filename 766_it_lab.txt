@@ -1,5 +1,0 @@
-#Welcome Vishnu Basskar to IT Lab
-
-Our new IT lab is at DSL03
- 
-this is a master file
